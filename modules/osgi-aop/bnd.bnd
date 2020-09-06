@@ -1,0 +1,4 @@
+Bundle-Activator: hoangnd.learn.AopActivator
+Bundle-Name: osgi-aop
+Bundle-SymbolicName: hoangnd.learn
+Bundle-Version: 1.0.0

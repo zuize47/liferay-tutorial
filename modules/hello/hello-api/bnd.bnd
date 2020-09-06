@@ -1,0 +1,4 @@
+Bundle-Name: hello-api
+Bundle-SymbolicName: hoangnd.learn.api
+Bundle-Version: 1.0.0
+Export-Package: hoangnd.learn.api
